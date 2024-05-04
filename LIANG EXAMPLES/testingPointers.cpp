@@ -5,6 +5,8 @@ int main(){
     int count = 5;  //declaring variable
     int* pCount = &count; //declaring pointer and assign it memory of value count
 
+    *pCount = 30;
+
     cout<< "the value of count is " << count << '\n';
     cout<< "the address of count is " << &count << '\n';
     cout<< "the address of count is " << pCount << '\n';
