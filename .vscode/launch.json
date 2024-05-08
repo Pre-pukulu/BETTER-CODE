@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "d:/SHOOL/UNIMA/SECOND YEAR/SECOND SEM/COM221/BETTER-CODE",
-      "program": "d:/SHOOL/UNIMA/SECOND YEAR/SECOND SEM/COM221/BETTER-CODE/build/Debug/outDebug",
+      "cwd": ".",
+      "program": "build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
